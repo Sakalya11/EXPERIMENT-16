@@ -56,6 +56,7 @@ int main()
 ~~~
 
 ## Code Ouput:-
+![image](https://github.com/user-attachments/assets/5417acde-3f81-4305-81b9-494ee200797e)
 
 
 ## Conclusion:-
